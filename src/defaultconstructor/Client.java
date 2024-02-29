@@ -11,6 +11,6 @@ public class Client {
 
         System.out.println("DEBUG");
 
-         Student student3 = new Student();
+         // Student student3 = new student2();
     }
 }
